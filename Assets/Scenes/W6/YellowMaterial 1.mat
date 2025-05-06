@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SphereMaterial
+  m_Name: YellowMaterial 1
   m_Shader: {fileID: -6465566751694194690, guid: e5da70be65c63421cb218b259b2446a5,
     type: 3}
   m_Parent: {fileID: 0}
@@ -53,5 +53,6 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    m_Colors:
+    - _MyColor: {r: 1, g: 0.9793993, b: 0, a: 0}
   m_BuildTextureStacks: []
